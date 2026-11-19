@@ -1,0 +1,12 @@
+Photographies et visuels AgriConnect 1.1.2
+
+Toutes les photographies sont locales (dossier public/images) :
+- hero-accueil.jpg : bannière plein écran de l accueil (équipe dans un champ au coucher du soleil).
+- about.jpg : section Mission (agriculture connectée, IoT).
+- vision.jpg : section Vision (collines et cultures en rangs, lumière dorée).
+- companies.jpg : carte Entreprises (équipe en serre et en plein champ).
+- graduates.jpg : carte Diplômés.
+- schools.jpg : carte Établissements.
+Les visuels SVG locaux restent les solutions de secours.
+
+Vérifier les droits d'utilisation de ces images avant mise en production. Pour une communication institutionnelle durable, privilégier des photographies originales prises au Bénin avec les autorisations nécessaires.
